@@ -16,3 +16,4 @@
 #### [v2ray-refiner](https://github.com/Surfboardv2ray/v2ray-refiner)
 #### [batch-fragment-scanner](https://github.com/Surfboardv2ray/batch-fragment-scanner)
 #### [xhttp-parser](https://github.com/Surfboardv2ray/xhttp-parser)
+#### [IP Geoloaction](https://github.com/Surfboardv2ray/IPGeolocation)

@@ -8,9 +8,7 @@
 ## Top Projects
 
 #### [TGProto](https://github.com/Surfboardv2ray/TGProto)
-#### [Xray-Load-Balancer](https://github.com/Surfboardv2ray/Xray-Load-Balancer)
 #### [Proxy-sorter](https://github.com/Surfboardv2ray/Proxy-sorter)
-#### [v2ray-worker-sub](https://github.com/Surfboardv2ray/v2ray-worker-sub)
 #### [TGParse](https://github.com/Surfboardv2ray/TGParse)
 #### [Trojan-worker](https://github.com/Surfboardv2ray/Trojan-worker)
 #### [v2ray-refiner](https://github.com/Surfboardv2ray/v2ray-refiner)
